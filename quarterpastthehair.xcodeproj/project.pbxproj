@@ -19,6 +19,7 @@
 		A5C5C7B418FB3649007BF8DD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C7B218FB3649007BF8DD /* InfoPlist.strings */; };
 		A5C5C7B618FB3649007BF8DD /* quarterpastthehairTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C7B518FB3649007BF8DD /* quarterpastthehairTests.m */; };
 		A5C5C7C118FB382B007BF8DD /* PPFuzzyTimeGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */; };
+		A5C5C7C418FB58E9007BF8DD /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C7C218FB58E9007BF8DD /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A5C5C7B518FB3649007BF8DD /* quarterpastthehairTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = quarterpastthehairTests.m; sourceTree = "<group>"; };
 		A5C5C7BF18FB382B007BF8DD /* PPFuzzyTimeGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPFuzzyTimeGenerator.h; sourceTree = "<group>"; };
 		A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPFuzzyTimeGenerator.m; sourceTree = "<group>"; };
+		A5C5C7C318FB58E9007BF8DD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 		A5C5C79218FB3649007BF8DD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A5C5C7C218FB58E9007BF8DD /* Localizable.strings */,
 				A5C5C79318FB3649007BF8DD /* quarterpastthehair-Info.plist */,
 				A5C5C79418FB3649007BF8DD /* InfoPlist.strings */,
 				A5C5C79718FB3649007BF8DD /* main.m */,
@@ -236,6 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5C5C7C418FB58E9007BF8DD /* Localizable.strings in Resources */,
 				A5C5C79618FB3649007BF8DD /* InfoPlist.strings in Resources */,
 				A5C5C7A418FB3649007BF8DD /* Images.xcassets in Resources */,
 				A5C5C79C18FB3649007BF8DD /* Credits.rtf in Resources */,
@@ -313,6 +317,14 @@
 				A5C5C7B318FB3649007BF8DD /* en */,
 			);
 			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A5C5C7C218FB58E9007BF8DD /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A5C5C7C318FB58E9007BF8DD /* en */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
