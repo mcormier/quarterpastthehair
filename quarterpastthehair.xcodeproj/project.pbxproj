@@ -18,6 +18,7 @@
 		A5C5C7AC18FB3649007BF8DD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5C5C78B18FB3649007BF8DD /* Cocoa.framework */; };
 		A5C5C7B418FB3649007BF8DD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C7B218FB3649007BF8DD /* InfoPlist.strings */; };
 		A5C5C7B618FB3649007BF8DD /* quarterpastthehairTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C7B518FB3649007BF8DD /* quarterpastthehairTests.m */; };
+		A5C5C7C118FB382B007BF8DD /* PPFuzzyTimeGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,8 @@
 		A5C5C7B118FB3649007BF8DD /* quarterpastthehairTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "quarterpastthehairTests-Info.plist"; sourceTree = "<group>"; };
 		A5C5C7B318FB3649007BF8DD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A5C5C7B518FB3649007BF8DD /* quarterpastthehairTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = quarterpastthehairTests.m; sourceTree = "<group>"; };
+		A5C5C7BF18FB382B007BF8DD /* PPFuzzyTimeGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPFuzzyTimeGenerator.h; sourceTree = "<group>"; };
+		A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPFuzzyTimeGenerator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 			children = (
 				A5C5C79D18FB3649007BF8DD /* PPAppDelegate.h */,
 				A5C5C79E18FB3649007BF8DD /* PPAppDelegate.m */,
+				A5C5C7BF18FB382B007BF8DD /* PPFuzzyTimeGenerator.h */,
+				A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */,
 				A5C5C7A018FB3649007BF8DD /* MainMenu.xib */,
 				A5C5C7A318FB3649007BF8DD /* Images.xcassets */,
 				A5C5C79218FB3649007BF8DD /* Supporting Files */,
@@ -255,6 +260,7 @@
 			files = (
 				A5C5C79F18FB3649007BF8DD /* PPAppDelegate.m in Sources */,
 				A5C5C79818FB3649007BF8DD /* main.m in Sources */,
+				A5C5C7C118FB382B007BF8DD /* PPFuzzyTimeGenerator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +473,7 @@
 				A5C5C7BB18FB3649007BF8DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5C5C7BC18FB3649007BF8DD /* Build configuration list for PBXNativeTarget "quarterpastthehairTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +482,7 @@
 				A5C5C7BE18FB3649007BF8DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

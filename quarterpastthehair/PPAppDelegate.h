@@ -8,7 +8,17 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface PPAppDelegate : NSObject <NSApplicationDelegate>
+#import "PPFuzzyTimeGenerator.h"
+
+@interface PPAppDelegate : NSObject <NSApplicationDelegate> {
+  
+  IBOutlet NSMenu *statusMenu;
+  
+  // TODO -- private variable declared in public .h file.\?
+@private
+  NSStatusItem* statusItem;
+  
+}
 
 @property (assign) IBOutlet NSWindow *window;
 
