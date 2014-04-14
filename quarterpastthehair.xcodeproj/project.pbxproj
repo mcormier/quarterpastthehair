@@ -20,6 +20,7 @@
 		A5C5C7B618FB3649007BF8DD /* quarterpastthehairTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C7B518FB3649007BF8DD /* quarterpastthehairTests.m */; };
 		A5C5C7C118FB382B007BF8DD /* PPFuzzyTimeGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */; };
 		A5C5C7C418FB58E9007BF8DD /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C7C218FB58E9007BF8DD /* Localizable.strings */; };
+		A5C5C7C718FB5C66007BF8DD /* PPFuzzyLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C7C618FB5C66007BF8DD /* PPFuzzyLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		A5C5C7BF18FB382B007BF8DD /* PPFuzzyTimeGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPFuzzyTimeGenerator.h; sourceTree = "<group>"; };
 		A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPFuzzyTimeGenerator.m; sourceTree = "<group>"; };
 		A5C5C7C318FB58E9007BF8DD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A5C5C7C518FB5C66007BF8DD /* PPFuzzyLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPFuzzyLabel.h; sourceTree = "<group>"; };
+		A5C5C7C618FB5C66007BF8DD /* PPFuzzyLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPFuzzyLabel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +127,8 @@
 				A5C5C79E18FB3649007BF8DD /* PPAppDelegate.m */,
 				A5C5C7BF18FB382B007BF8DD /* PPFuzzyTimeGenerator.h */,
 				A5C5C7C018FB382B007BF8DD /* PPFuzzyTimeGenerator.m */,
+				A5C5C7C518FB5C66007BF8DD /* PPFuzzyLabel.h */,
+				A5C5C7C618FB5C66007BF8DD /* PPFuzzyLabel.m */,
 				A5C5C7A018FB3649007BF8DD /* MainMenu.xib */,
 				A5C5C7A318FB3649007BF8DD /* Images.xcassets */,
 				A5C5C79218FB3649007BF8DD /* Supporting Files */,
@@ -263,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A5C5C79F18FB3649007BF8DD /* PPAppDelegate.m in Sources */,
+				A5C5C7C718FB5C66007BF8DD /* PPFuzzyLabel.m in Sources */,
 				A5C5C79818FB3649007BF8DD /* main.m in Sources */,
 				A5C5C7C118FB382B007BF8DD /* PPFuzzyTimeGenerator.m in Sources */,
 			);
