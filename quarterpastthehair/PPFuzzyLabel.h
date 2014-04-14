@@ -6,11 +6,25 @@
 //  Copyright (c) 2014 Matthieu Cormier. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <Cocoa/Cocoa.h>
 
-@interface PPFuzzyLabel : NSObject
+@interface PPFuzzyLabel : NSObject {
 
-  +(id)labelFor:(NSInteger)minute;
+  NSInteger hour;
+  NSInteger minute;
+  
+  NSString* label;
+  BOOL nextHour;
+}
+
+-(id)initWith:(NSInteger)hour and:(NSInteger)minute;
+
+-(NSString*)fuzzyString;
+
+
++(id)labelForNow;
+
+
 
 @end
 
