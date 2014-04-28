@@ -1,0 +1,110 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "ayay itbay afteryay %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "ivefay afteryay %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "entay astpay %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "uarterqay astpay %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "entytway astpay %@";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "entyfivetway astpay %@";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "alfhay astpay %@";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "entyfivetway otay %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "entytway otay %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "entytway otay %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "entytway otay %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "ivefay otay %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "earlynay %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "elvetway";
+"one" = "oneyay";
+"two" = "otway";
+"three" = "eethray";
+"four" = "ourfay";
+"five" = "ivefay";
+"six" = "ixsay";
+"seven" = "evensay";
+"eight" = "eightyay";
+"nine" = "inenay";
+"ten" = "entay";
+"eleven" = "elevenyay";
+
+/* special strings */
+
+"%@ o'clock" = "%@ oyay’ockclay";
+"midnight" = "Idnightmay";
+
+/* Workarounds */
+
+"one o'clock" = "oneyay";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "Aboutyay UzzyClockfay...";
+"FuzzyClock Help" = "UzzyClockfay Elphay";
+"Preferences ..." = "Eferencespray...";
+"Quit" = "Uitqay";
+
+
+/* Others		*/
+
+"language" = "Anguagelay";
+"change only FuzzyTime" = "angechay onlyyay UzzyTimefay";
+
+"Save" = "avesay";
+
+"Fuzzy Preferences" = "Uzzyfay Eferencespray";
+
+"Language Settings" = "Language Settings";
+"Specials" = "Specials";
+"Special time settings" = "Special time settings";
+"Starttime" = "Starttime";
+"Endtime" = "Endtime";
+"String" = "String";
+"time format: hh:mm" = "time format: hh:mm";
+"Remove" = "Remove";
+"Add" = "Add";
+
+
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

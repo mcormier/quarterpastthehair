@@ -1,0 +1,115 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "Litt over %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "Fem over %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "Ti over %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "Kvart over %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "Ti på halv %@";
+"twenty past ref" 		= "next";
+
+"twentyfive past %@" 	= "Fem på halv %@";
+"twentyfive past ref" 	= "next";
+
+"half past %@" 			= "Halv %@";
+"half past ref" 		= "next";
+
+"twentyfive to %@" 		= "Fem over halv %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "Ti over halv %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "Kvart på %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "Ti på %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "Fem på %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "Nesten %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "tolv";
+"one" = "ett";
+"two" = "to";
+"three" = "tre";
+"four" = "fire";
+"five" = "fem";
+"six" = "seks";
+"seven" = "sju";
+"eight" = "åtte";
+"nine" = "ni";
+"ten" = "ti";
+"eleven" = "elleve";
+
+/* special strings */
+
+"%@ o'clock" = "Akkurat %@";
+"midnight" = "Midnatt";
+
+/* Workarounds */
+
+"one o'clock" = "Ett";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "Om FuzzyClock...";
+"FuzzyClock Help" = "FuzzyClock hjelp";
+"Preferences ..." = "Val...";
+"Quit" = "Avslutt";
+
+
+/* Others		*/
+
+"language" = "Språk";
+"change only FuzzyTime" = "Berre endre FuzzyTime";
+
+"Save" = "Lagre";
+
+"Fuzzy Preferences" = "Fuzzy val";
+
+"Language Settings" = "Språkval";
+"Specials" = "Eigne meldingar";
+"Special time settings" = "Eiga innstilling";
+"Starttime" = "Starttid";
+"Endtime" = "Sluttid";
+"String" = "Tekst";
+"time format: hh:mm" = "Tidsformat: hh:mm";
+"Remove" = "Fjern";
+"Add" = "Legg til";
+
+
+"Color & Font" = "Color & Font";
+"Text color" = "Text color";
+"draw font with shadow" = "draw font with shadow";
+"(takes effect when you restart FuzzyClock)" = "(takes effect when you restart FuzzyClock)";
+"font name" = "font name";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

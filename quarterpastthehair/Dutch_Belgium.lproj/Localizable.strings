@@ -1,0 +1,106 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "kort na %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "vijf na %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "tien na %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "kwart na %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "twintig na %@";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "vijf voor half %@";
+"twentyfive past ref" 	= "next";
+
+"half past %@" 			= "half %@";
+"half past ref" 		= "next";
+
+"twentyfive to %@" 		= "vijf na half %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "twintig voor %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "kwart voor %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "tien voor %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "vijf voor %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "bijna %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "twaalf";
+"one" = "een";
+"two" = "twee";
+"three" = "drie";
+"four" = "vier";
+"five" = "vijf";
+"six" = "zes";
+"seven" = "zeven";
+"eight" = "acht";
+"nine" = "negen";
+"ten" = "tien";
+"eleven" = "elf";
+
+
+/* special strings */
+
+"%@ o'clock" = "%@ uur";
+"midnight" = "Middernacht";
+
+/* Workarounds */
+
+"one o'clock" = "een";
+
+
+/* Menu items		*/
+
+"About FuzzyClock" = "Over 'FuzzyClock'...";
+"FuzzyClock Help" = "FuzzyClock Help";
+"Preferences ..." = "Voorkeuren...";
+"Quit" = "Stop";
+
+
+/* Others		*/
+
+"language" = "Taal";
+"change only FuzzyTime" = "wijzig enkel FuzzyTime";
+
+"Save" = "Bewaar";
+
+"Fuzzy Preferences" = "Fuzzy Voorkeuren";
+
+"Color & Font" = "Color & Font";
+"Text color" = "Text color";
+"draw font with shadow" = "draw font with shadow";
+"(takes effect when you restart FuzzyClock)" = "(takes effect when you restart FuzzyClock)";
+"font name" = "font name";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

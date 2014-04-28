@@ -1,0 +1,104 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "bach ar ™l %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "pum muned wedi %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "deg muned wedi %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "chwarter wedi %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "ugain muned wedi %@";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "pump muned ar hugain wedi %@";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "hanner awr wedi %@";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "pump muned ar hugain i %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "ugain muned i %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "chwarter i %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "deg muned i %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "pum muned i %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "bron a fod yn %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "deuddeg";
+"one" = "un";
+"two" = "dwy";
+"three" = "tair";
+"four" = "pedair";
+"five" = "pump";
+"six" = "chwech";
+"seven" = "saith";
+"eight" = "wyth";
+"nine" = "naw";
+"ten" = "deg";
+"eleven" = "un ar ddeg";
+
+/* special strings */
+
+"%@ o'clock" = "%@ o'r gloch";
+"midnight" = "hanner n™s";
+
+/* Workarounds */
+
+"one o'clock" = "un o'r gloch";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "Gwybodaeth Am FuzzyClock";
+"FuzzyClock Help" = "Help ar FuzzyClock";
+"Preferences ..." = "Dewisiadau ...";
+"Quit" = "Gadael";
+
+
+/* Others		*/
+
+"language" = "iaith";
+"change only FuzzyTime" = "newid FuzzyTime yn unig";
+
+"Save" = "Cadw";
+
+"Fuzzy Preferences" = "Dewisiadau Fuzzy";
+
+"Color & Font" = "Color & Font";
+"Text color" = "Text color";
+"draw font with shadow" = "draw font with shadow";
+"(takes effect when you restart FuzzyClock)" = "(takes effect when you restart FuzzyClock)";
+"font name" = "font name";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

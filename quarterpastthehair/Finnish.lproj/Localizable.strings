@@ -1,0 +1,117 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "vähän yli %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "viis yli %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "kymmenen yli %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "vartin yli %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "kakskyt yli %@";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "kakskytviis yli %@";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "puol %@";
+"half past ref" 		= "next";
+
+"twentyfive to %@" 		= "kakskytviis vaille %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "kakskyt vaille %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "varttia vaille %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "kymmentä vaille %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "viittä vaille %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "kohta %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "kakstoista";
+"one" = "yks";
+"two" = "kaks";
+"three" = "kolme";
+"four" = "neljä";
+"five" = "viis";
+"six" = "kuus";
+"seven" = "seittemän";
+"eight" = "kaheksan";
+"nine" = "yheksän";
+"ten" = "kymmenen";
+"eleven" = "ykstoista";
+
+/* special strings */
+
+"%@ o'clock" = "%@ tasan";
+"midnight" = "keskiyö";
+
+/* Workarounds */
+
+"one o'clock" = "yks";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "About FuzzyClock...";
+"FuzzyClock Help" = "FuzzyClock Help";
+"Preferences ..." = "Preferences...";
+"Quit" = "Quit";
+
+
+/* Others		*/
+
+"language" = "Language";
+"change only FuzzyTime" = "change only FuzzyTime";
+
+"Save" = "Save";
+
+"Fuzzy Preferences" = "Fuzzy Preferences";
+
+
+/*new strings for new Preferences */
+
+"Language Settings" = "Kieliasetukset";
+"Specials" = "Omat";
+"Special time settings" = "Omat aika-asetukset";
+"Starttime" = "Aloitusaika";
+"Endtime" = "Lopetusaika";
+"String" = "Polku";
+"time format: hh:mm" = "aikaformaatti: tt:mm";
+"Remove" = "Poista";
+"Add" = "Lisää";
+
+"Color & Font" = "Color & Font";
+"Text color" = "Text color";
+"draw font with shadow" = "draw font with shadow";
+"(takes effect when you restart FuzzyClock)" = "(takes effect when you restart FuzzyClock)";
+"font name" = "font name";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

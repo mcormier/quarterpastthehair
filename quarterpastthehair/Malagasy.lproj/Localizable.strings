@@ -1,0 +1,112 @@
+/* Les chaînes de caractères suivantes ont pour but de montrer l'heure */
+/* d'une façon "floue". */
+/* Si vous voulez créer d'autres chaînes de caractères, changez la */
+/* deuxième inscription de chaque ligne. Ne changez pas la première! */
+/* L'inscription %@ représente la position où l'on place l'heure. */
+/* Après chaque chaîne de caractères il faut mettre une référence */
+/* afin de clarifier si elle a rapport à l'heure courante ou à */
+/* celle qui suit. */
+
+"shortly after %@" 		= "mahery kely %@";
+"shortly after ref" 		= "current";
+
+"five past %@" 			= "%@ sy dimy";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "%@ sy folo";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "%@ sy fahefany";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "%@ sy fahatelony";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "%@ sasany latsaka dimy";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "%@ sasany";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "%@ sasany mahery dimy";
+"twentyfive to ref" 	= "current";
+
+"twenty to %@" 			= "%@ latsaka fahatelony";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "%@ latsaka fahefany";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "%@ latsaka folo";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "%@ latsaka dimy";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "latsaka kely %@";
+"nearly ref" 			= "next";
+
+
+/* noms des heures */
+
+"twelve" = "amin'ny roa ambin'ny folo";
+"one" = "amin'ny iray";
+"two" = "amin'ny roa";
+"three" = "amin'ny telo";
+"four" = "amin'ny efatra";
+"five" = "amin'ny dimy";
+"six" = "amin'ny enina";
+"seven" = "amin'ny fito";
+"eight" = "amin'ny valo";
+"nine" = "amin'ny sivy";
+"ten" = "amin'ny valo";
+"eleven" = "amin'ny iraika ambin'ny folo";
+
+/* chaînes particulières */
+
+/* "%@ o'clock" = "marina"; */
+"midnight" = "sasak'alina";
+
+/* ruse */
+
+"one o'clock" = "amin'ny iray marina";
+
+
+/* Éléments du menu */
+
+"About FuzzyClock" = "Momba FuzzyClock...";
+"FuzzyClock Help" = "FuzzyClock Fanampiana";
+"Preferences ..." = "Fanovana...";
+"Quit" = "Veloma";
+
+
+/* Others		*/
+
+"language" = "Teny";
+"change only FuzzyTime" = "fanovana FuzzyTime fotsiny";
+
+"Save" = "fampirimana";
+
+"Fuzzy Preferences" = "Fuzzy Préférences";
+
+"Language Settings" = "Language Settings";
+"Specials" = "Specials";
+"Special time settings" = "Special time settings";
+"Starttime" = "Starttime";
+"Endtime" = "Endtime";
+"String" = "String";
+"time format: hh:mm" = "time format: hh:mm";
+"Remove" = "Remove";
+"Add" = "Add";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

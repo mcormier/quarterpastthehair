@@ -1,0 +1,104 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "pouco depois das %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "%@ e cinco";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "%@ e dez";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "%@ e quinze";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "%@ e vinte";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "%@ e vinte e cinco";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "%@ e meia";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "vinte e cinco para as %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "vinte para as %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "quinze para as %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "dez para as %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "cinco para as %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "quase %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "doze";
+"one" = "um";
+"two" = "dois";
+"three" = "três";
+"four" = "quatro";
+"five" = "cinco";
+"six" = "seis";
+"seven" = "sete";
+"eight" = "oito";
+"nine" = "nove";
+"ten" = "dez";
+"eleven" = "onze";
+
+/* special strings */
+
+"%@ o'clock" = "%@ horas";
+"midnight" = "Meia-noite";
+
+/* Workarounds */
+
+"one o'clock" = "uma hora";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "Sobre FuzzyClock...";
+"FuzzyClock Help" = "Ajuda FuzzyClock";
+"Preferences ..." = "Preferencias...";
+"Quit" = "Fechar";
+
+
+/* Others		*/
+
+"language" = "Língua";
+"change only FuzzyTime" = "Mude apenas FuzzyTime";
+
+"Save" = "Salvar";
+
+"Fuzzy Preferences" = "Preferências do Fuzzy";
+
+"Color & Font" = "Color & Font";
+"Text color" = "Text color";
+"draw font with shadow" = "draw font with shadow";
+"(takes effect when you restart FuzzyClock)" = "(takes effect when you restart FuzzyClock)";
+"font name" = "font name";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

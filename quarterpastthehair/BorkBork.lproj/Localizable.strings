@@ -1,0 +1,108 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "a beet effter %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "feefe-a effter %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "tee pest %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "qooerter pest %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "qooerter pest %@";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "tventyffeefe-a pest %@";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "helff pest %@";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "tventyffeefe-a tu %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "tventyffeefe-a tu %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "qooerter tu %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "tee tu %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "tee tu %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "neerly %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "neerly";
+"one" = "oone-a";
+"two" = "tvu";
+"three" = "three-a";
+"four" = "fuoor";
+"five" = "feefe-a";
+"six" = "seex";
+"seven" = "sefee";
+"eight" = "ieeght";
+"nine" = "neene-a";
+"ten" = "tee";
+"eleven" = "ilefeen";
+
+/* special strings */
+
+"%@ o'clock" = "%@ oo'cluck";
+"midnight" = "Meednight";
+
+/* Workarounds */
+
+"one o'clock" = "oone-a";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "Ebuoot FoozzyCluck...";
+"FuzzyClock Help" = "Ebuoot FoozzyCluck";
+"Preferences ..." = "Prefferences...";
+"Quit" = "Qooeet um gesh dee bork, bork!";
+
+
+/* Others		*/
+
+"language" = "Qooeet";
+"change only FuzzyTime" = "chunge-a oonly FoozzyTeeme-a";
+
+"Save" = "sefe";
+
+"Fuzzy Preferences" = "Foozzy Prefferences";
+
+"Language Settings" = "Language Settings";
+"Specials" = "Specials";
+"Special time settings" = "Special time settings";
+"Starttime" = "Starttime";
+"Endtime" = "Endtime";
+"String" = "String";
+"time format: hh:mm" = "time format: hh:mm";
+"Remove" = "Remove";
+"Add" = "Add";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

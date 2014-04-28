@@ -1,0 +1,104 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "Iomete post %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "Kvin post %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "Dek post %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "Kvarono post %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "Dudek post %@";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "Dudek kvin post %@";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "Duono post %@";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "Dudek kvin antaux %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "Dudek antaux %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "Kvarono antaux %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "Dek antaux %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "Kvin antaux %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "Preskaux %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "la Dek-dua";
+"one" = "la Unua";
+"two" = "la Dua";
+"three" = "la Tria";
+"four" = "la Kvara";
+"five" = "la Kvina";
+"six" = "la Sesa";
+"seven" = "la Sepa";
+"eight" = "la Oka";
+"nine" = "la Nauxa";
+"ten" = "la Deka";
+"eleven" = "la Dek-Unua";
+
+/* special strings */
+
+"%@ o'clock" = "%@ ekzakte";
+"midnight" = "Noktomezo";
+
+/* Workarounds */
+
+"one o'clock" = "la unua";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "Pri FuzzyClock...";
+"FuzzyClock Help" = "FuzzyClock Helpo";
+"Preferences ..." = "Preferoj...";
+"Quit" = "Eliru";
+
+
+/* Others		*/
+
+"language" = "Esperanto";
+"change only FuzzyTime" = "Sxangxu nur FuzzyTime";
+
+"Save" = "Savu";
+
+"Fuzzy Preferences" = "Fuzzy Preferoj";
+
+"Color & Font" = "Color & Font";
+"Text color" = "Text color";
+"draw font with shadow" = "draw font with shadow";
+"(takes effect when you restart FuzzyClock)" = "(takes effect when you restart FuzzyClock)";
+"font name" = "font name";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

@@ -1,0 +1,108 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "a bit aftew %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "five aftew %@";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "ten pwast %@";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "qwawtew pwast %@";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "twenty pwast %@";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "twentyfive pwast %@";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "hawf pwast %@";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "twentyfive to %@";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "twenty to %@";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "qwawtew to %@";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "ten to %@";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "five to %@";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "neawwy %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "twewve";
+"one" = "one";
+"two" = "two";
+"three" = "thwee";
+"four" = "fouw";
+"five" = "five";
+"six" = "six";
+"seven" = "seven";
+"eight" = "eight";
+"nine" = "nine";
+"ten" = "ten";
+"eleven" = "eweven";
+
+/* special strings */
+
+"%@ o'clock" = "%@ o’cwock";
+"midnight" = "Midnight";
+
+/* Workarounds */
+
+"one o'clock" = "one";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "About FwuzzyCwock...";
+"FuzzyClock Help" = "FwuzzyCwock Hewp";
+"Preferences ..." = "Pwefewences...";
+"Quit" = "Qwit";
+
+
+/* Others		*/
+
+"language" = "Wanguage";
+"change only FuzzyTime" = "change onwy FwuzzyTime";
+
+"Save" = "Save";
+
+"Fuzzy Preferences" = "Fwuzzy Pwefewences";
+
+"Language Settings" = "Language Settings";
+"Specials" = "Specials";
+"Special time settings" = "Special time settings";
+"Starttime" = "Starttime";
+"Endtime" = "Endtime";
+"String" = "String";
+"time format: hh:mm" = "time format: hh:mm";
+"Remove" = "Remove";
+"Add" = "Add";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";

@@ -1,0 +1,103 @@
+/* The following strings are used, to display the time in a "fuzzy" style.                            */
+/* If you want to have other strings, change the second entry in a line. Don't change the first!      */
+/* The entry %@ represents the position where the hour is placed.                                     */
+/* After every string you have to set a reference whether the referenced hour is the current or the   */
+/* next.                                                                                              */
+
+"shortly after %@" 		= "malo proshlo %@";
+"shortly after ref" 	= "current";
+
+"five past %@" 			= "%@ i pet";
+"five past ref" 		= "current";
+
+"ten past %@" 			= "%@ i deset";
+"ten past ref" 			= "current";
+
+"quarter past %@" 		= "%@ i kvarat";
+"quarter past ref" 		= "current";
+
+"twenty past %@" 		= "%@ i dvajset";
+"twenty past ref" 		= "current";
+
+"twentyfive past %@" 	= "%@ i dvajspet";
+"twentyfive past ref" 	= "current";
+
+"half past %@" 			= "%@ ipo";
+"half past ref" 		= "current";
+
+"twentyfive to %@" 		= "%@ manje dvajspet";
+"twentyfive to ref" 	= "next";
+
+"twenty to %@" 			= "%@ manje dvajst";
+"twenty to ref" 		= "next";
+
+"quarter to %@" 		= "%@ manje kvarat";
+"quarter to ref" 		= "next";
+
+"ten to %@" 			= "%@ manje deset";
+"ten to ref" 			= "next";
+
+"five to %@" 			= "%@ manje pet";
+"five to ref" 			= "next";
+
+"nearly %@" 			= "skoro %@";
+"nearly ref" 			= "next";
+
+
+/* hour names */
+
+"twelve" = "podne";
+"one" = "ura";
+"two" = "dva";
+"three" = "tri";
+"four" = "ccetiri";
+"five" = "pet";
+"six" = "shest";
+"seven" = "sedam";
+"eight" = "osam";
+"nine" = "devet";
+"ten" = "deset";
+"eleven" = "jedanajst";
+
+/* special strings */
+
+"%@ o'clock" = "%@ sati";
+"midnight" = "ponoch";
+
+/* Workarounds */
+
+"one o'clock" = "ura";
+
+/* Menu items		*/
+
+"About FuzzyClock" = "O FuzzyClock-u...";
+"FuzzyClock Help" = "FuzzyClock Pomoch";
+"Preferences ..." = "Postavi...";
+"Quit" = "Izaz";
+
+
+/* Others		*/
+
+"language" = "Jezik";
+"change only FuzzyTime" = "promjeni samo FuzzyTime";
+
+"Save" = "Spremi";
+
+"Fuzzy Preferences" = "Fuzzy Postavi";
+"Color & Font" = "Color & Font";
+"Text color" = "Text color";
+"draw font with shadow" = "draw font with shadow";
+"(takes effect when you restart FuzzyClock)" = "(takes effect when you restart FuzzyClock)";
+"font name" = "font name";
+
+"show day in menu bar" = "show day in menu bar";
+
+/* Weekday abbreviations */
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";
