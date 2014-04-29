@@ -13,7 +13,6 @@
 		A5C5C79C18FB3649007BF8DD /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C79A18FB3649007BF8DD /* Credits.rtf */; };
 		A5C5C79F18FB3649007BF8DD /* PPAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C79E18FB3649007BF8DD /* PPAppDelegate.m */; };
 		A5C5C7A218FB3649007BF8DD /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C7A018FB3649007BF8DD /* MainMenu.xib */; };
-		A5C5C7A418FB3649007BF8DD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C7A318FB3649007BF8DD /* Images.xcassets */; };
 		A5C5C7AB18FB3649007BF8DD /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5C5C7AA18FB3649007BF8DD /* XCTest.framework */; };
 		A5C5C7AC18FB3649007BF8DD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5C5C78B18FB3649007BF8DD /* Cocoa.framework */; };
 		A5C5C7B418FB3649007BF8DD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C7B218FB3649007BF8DD /* InfoPlist.strings */; };
@@ -143,7 +142,6 @@
 		A5C5C79D18FB3649007BF8DD /* PPAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PPAppDelegate.h; sourceTree = "<group>"; };
 		A5C5C79E18FB3649007BF8DD /* PPAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PPAppDelegate.m; sourceTree = "<group>"; };
 		A5C5C7A118FB3649007BF8DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		A5C5C7A318FB3649007BF8DD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A5C5C7A918FB3649007BF8DD /* quarterpastthehairTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = quarterpastthehairTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C5C7AA18FB3649007BF8DD /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		A5C5C7B118FB3649007BF8DD /* quarterpastthehairTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "quarterpastthehairTests-Info.plist"; sourceTree = "<group>"; };
@@ -322,7 +320,6 @@
 				A5C5C7C518FB5C66007BF8DD /* PPFuzzyLabel.h */,
 				A5C5C7C618FB5C66007BF8DD /* PPFuzzyLabel.m */,
 				A5C5C7A018FB3649007BF8DD /* MainMenu.xib */,
-				A5C5C7A318FB3649007BF8DD /* Images.xcassets */,
 				A5C5C79218FB3649007BF8DD /* Supporting Files */,
 			);
 			path = quarterpastthehair;
@@ -1217,7 +1214,6 @@
 				A5C5C87B18FB69D4007BF8DD /* Localizable.strings in Resources */,
 				A5C5C80718FB69C0007BF8DD /* Localizable.strings in Resources */,
 				A5C5C7FB18FB69C0007BF8DD /* Localizable.strings in Resources */,
-				A5C5C7A418FB3649007BF8DD /* Images.xcassets in Resources */,
 				A5C5C8AA18FB69E5007BF8DD /* Localizable.strings in Resources */,
 				A5C5C87218FB69D4007BF8DD /* Localizable.strings in Resources */,
 				A5C5C91218FB69F7007BF8DD /* Localizable.strings in Resources */,
