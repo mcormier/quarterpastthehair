@@ -7,16 +7,16 @@
 "shortly after %@" 		= "drygt %@";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "fem över %@";
+"five past %@" 			= "fem √∂ver %@";
 "five past ref" 		= "current";
 
-"ten past %@" 			= "tio över %@";
+"ten past %@" 			= "tio √∂ver %@";
 "ten past ref" 			= "current";
 
-"quarter past %@" 		= "kvart över %@";
+"quarter past %@" 		= "kvart √∂ver %@";
 "quarter past ref" 		= "current";
 
-"twenty past %@" 		= "tjugo över %@";
+"twenty past %@" 		= "tjugo √∂ver %@";
 "twenty past ref" 		= "current";
 
 "twentyfive past %@" 	= "fem i halv %@";
@@ -25,7 +25,7 @@
 "half past %@" 			= "halv %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "fem över halv %@";
+"twentyfive to %@" 		= "fem √∂ver halv %@";
 "twentyfive to ref" 	= "next";
 
 "twenty to %@" 			= "tjugo i %@";
@@ -48,13 +48,13 @@
 
 "twelve" = "tolv";
 "one" = "ett";
-"two" = "två";
+"two" = "tv√•";
 "three" = "tre";
 "four" = "fyra";
 "five" = "fem";
 "six" = "sex";
 "seven" = "sju";
-"eight" = "åtta";
+"eight" = "√•tta";
 "nine" = "nio";
 "ten" = "tio";
 "eleven" = "elva";

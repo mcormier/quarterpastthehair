@@ -7,7 +7,7 @@
 "shortly after %@" 		= "%@";
 "shortly after ref" 		= "current";
 
-"five past %@" 			= "fünf noch %@";
+"five past %@" 			= "f√ºnf noch %@";
 "five past ref" 		= "current";
 
 "ten past %@" 			= "zehn noch %@";
@@ -19,13 +19,13 @@
 "twenty past %@" 		= "zwanzg noch %@";
 "twenty past ref" 		= "current";
 
-"twentyfive past %@" 		= "fünf vua hoib %@";
+"twentyfive past %@" 		= "f√ºnf vua hoib %@";
 "twentyfive past ref" 		= "next";
 
 "half past %@" 			= "hoib %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "fünf noch hoib %@";
+"twentyfive to %@" 		= "f√ºnf noch hoib %@";
 "twentyfive to ref" 		= "next";
 
 "twenty to %@" 			= "zwanzg vua %@";
@@ -37,7 +37,7 @@
 "ten to %@" 			= "zehn vua %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "fünf vua %@";
+"five to %@" 			= "f√ºnf vua %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "%@";
@@ -46,18 +46,18 @@
 
 /* hour names */
 
-"twelve" = "zwöf";
+"twelve" = "zw√∂f";
 "one" = "aans";
 "two" = "zwaa";
-"three" = "drä";
+"three" = "dr√§";
 "four" = "via";
-"five" = "fümf";
+"five" = "f√ºmf";
 "six" = "sechs";
 "seven" = "siebm";
 "eight" = "ocht";
-"nine" = "näne";
+"nine" = "n√§ne";
 "ten" = "zehn";
-"eleven" = "öf";
+"eleven" = "√∂f";
 
 
 /* special strings */
@@ -73,20 +73,20 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Üwa FuzzyClock...";
-"FuzzyClock Help" = "FuzzyClock Hüfe";
-"Preferences ..." = "Präferenzen...";
+"About FuzzyClock" = "√úwa FuzzyClock...";
+"FuzzyClock Help" = "FuzzyClock H√ºfe";
+"Preferences ..." = "Pr√§ferenzen...";
 "Quit" = "Odrahn";
 
 
 /* Others		*/
 
 "language" = "Sproch";
-"change only FuzzyTime" = "nua Fuzzy-Zeit ändern";
+"change only FuzzyTime" = "nua Fuzzy-Zeit √§ndern";
 
 "Save" = "Ospeichan";
 
-"Fuzzy Preferences" = "Fuzzy Eistöllungan";
+"Fuzzy Preferences" = "Fuzzy Eist√∂llungan";
 
 "Color & Font" = "Color & Font";
 "Text color" = "Text color";

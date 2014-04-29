@@ -7,7 +7,7 @@
 "shortly after %@" 		= "%@ish";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "%@ oÕfive";
+"five past %@" 			= "%@ oâ€™five";
 "five past ref" 		= "current";
 
 "ten past %@" 			= "%@ ten";
@@ -61,7 +61,7 @@
 
 /* special strings */
 
-"%@ o'clock" = "%@ oÕclock";
+"%@ o'clock" = "%@ oâ€™clock";
 "midnight" = "Midnight";
 
 /* Workarounds */

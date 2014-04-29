@@ -7,10 +7,10 @@
 "shortly after %@" 		= "koot noh %@";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "fünnef noh %@";
+"five past %@" 			= "f√ºnnef noh %@";
 "five past ref" 		= "current";
 
-"ten past %@" 			= "zäng noh %@";
+"ten past %@" 			= "z√§ng noh %@";
 "ten past ref" 			= "current";
 
 "quarter past %@" 		= "veedel noh %@";
@@ -19,44 +19,44 @@
 "twenty past %@" 		= "zwanzisch noh %@";
 "twenty past ref" 		= "current";
 
-"twentyfive past %@" 	= "fünnef vüür halver %@";
+"twentyfive past %@" 	= "f√ºnnef v√º√ºr halver %@";
 "twentyfive past ref" 	= "next";
 
 "half past %@" 			= "halver %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "fünnef noh halver %@";
+"twentyfive to %@" 		= "f√ºnnef noh halver %@";
 "twentyfive to ref" 	= "next";
 
-"twenty to %@" 			= "zwanzisch vüür %@";
+"twenty to %@" 			= "zwanzisch v√º√ºr %@";
 "twenty to ref" 		= "next";
 
-"quarter to %@" 		= "veedel vüür %@";
+"quarter to %@" 		= "veedel v√º√ºr %@";
 "quarter to ref" 		= "next";
 
-"ten to %@" 			= "zäng vüür %@";
+"ten to %@" 			= "z√§ng v√º√ºr %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "fünnef vüür %@";
+"five to %@" 			= "f√ºnnef v√º√ºr %@";
 "five to ref" 			= "next";
 
-"nearly %@" 			= "koot vüür %@";
+"nearly %@" 			= "koot v√º√ºr %@";
 "nearly ref" 			= "next";
 
 
 /* hour names */
 
-"twelve" = "zwüllef";
+"twelve" = "zw√ºllef";
 "one" = "eins";
 "two" = "zwei";
 "three" = "drei";
 "four" = "vier";
-"five" = "fünnef";
+"five" = "f√ºnnef";
 "six" = "sechs";
 "seven" = "sibbe";
 "eight" = "aach";
-"nine" = "nüng";
-"ten" = "zäng";
+"nine" = "n√ºng";
+"ten" = "z√§ng";
 "eleven" = "illef";
 
 /* special strings */
@@ -70,20 +70,20 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Üvver FuzzyClock...";
-"FuzzyClock Help" = "Hillefe för FuzzyClock";
-"Preferences ..." = "För dran ze fummele...";
+"About FuzzyClock" = "√úvver FuzzyClock...";
+"FuzzyClock Help" = "Hillefe f√∂r FuzzyClock";
+"Preferences ..." = "F√∂r dran ze fummele...";
 "Quit" = "Un fott";
 
 
 /* Others		*/
 
 "language" = "Sprooch";
-"change only FuzzyTime" = "Nor de Fuzzy-Zick ändere";
+"change only FuzzyTime" = "Nor de Fuzzy-Zick √§ndere";
 
 "Save" = "Speischere";
 
-"Fuzzy Preferences" = "För dran ze fummele";
+"Fuzzy Preferences" = "F√∂r dran ze fummele";
 
 "Color & Font" = "Farbe & Schrift";
 "Text color" = "Textfarbe";
@@ -91,7 +91,7 @@
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
 
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 "chime on full hour" = "Ton zur vollen Stunde";
 
 /* Weekday abbreviations */

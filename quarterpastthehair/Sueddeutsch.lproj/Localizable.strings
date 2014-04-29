@@ -1,4 +1,4 @@
-/* The following strings are used, to display the time in a "fuzzy" style.                            */
+Ôªø/* The following strings are used, to display the time in a "fuzzy" style.                            */
 /* If you want to have other strings, change the second entry in a line. Don't change the first!      */
 /* The entry %@ represents the position where the hour is placed.                                     */
 /* After every string you have to set a reference whether the referenced hour is the current or the   */
@@ -7,7 +7,7 @@
 "shortly after %@" 		= "kurz nach %@";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "fünf nach %@";
+"five past %@" 			= "f√ºnf nach %@";
 "five past ref" 		= "current";
 
 "ten past %@" 			= "zehn nach %@";
@@ -19,13 +19,13 @@
 "twenty past %@" 		= "zwanzig nach %@";
 "twenty past ref" 		= "current";
 
-"twentyfive past %@" 	= "fünf vor halb %@";
+"twentyfive past %@" 	= "f√ºnf vor halb %@";
 "twentyfive past ref" 	= "next";
 
 "half past %@" 			= "halb %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "fünf nach halb %@";
+"twentyfive to %@" 		= "f√ºnf nach halb %@";
 "twentyfive to ref" 	= "next";
 
 "twenty to %@" 			= "zwanzig vor %@";
@@ -37,7 +37,7 @@
 "ten to %@" 			= "zehn vor %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "fünf vor %@";
+"five to %@" 			= "f√ºnf vor %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "kurz vor %@";
@@ -46,12 +46,12 @@
 
 /* hour names */
 
-"twelve" = "zwölf";
+"twelve" = "zw√∂lf";
 "one" = "eins";
 "two" = "zwei";
 "three" = "drei";
 "four" = "vier";
-"five" = "fünf";
+"five" = "f√ºnf";
 "six" = "sechs";
 "seven" = "sieben";
 "eight" = "acht";
@@ -73,7 +73,7 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Über FuzzyClock...";
+"About FuzzyClock" = "√úber FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Hilfe";
 "Preferences ..." = "Einstellungen...";
 "Quit" = "Beenden";
@@ -82,7 +82,7 @@
 /* Others		*/
 
 "language" = "Sprache";
-"change only FuzzyTime" = "nur Fuzzy-Zeit ändern";
+"change only FuzzyTime" = "nur Fuzzy-Zeit √§ndern";
 
 "Save" = "Speichern";
 
@@ -94,7 +94,7 @@
 "draw font with shadow" = "Schrift mit Schatten zeichnen";
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 
 "chime on full hour" = "Ton zur vollen Stunde";
 

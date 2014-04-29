@@ -61,7 +61,7 @@
 
 /* special strings */
 
-"%@ o'clock" = "%@ oÕcwock";
+"%@ o'clock" = "%@ oâ€™cwock";
 "midnight" = "Midnight";
 
 /* Workarounds */

@@ -7,7 +7,7 @@
 "shortly after %@" 		= "kuaz nach %@";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "fümf nach %@";
+"five past %@" 			= "f√ºmf nach %@";
 "five past ref" 		= "current";
 
 "ten past %@" 			= "zehn nach %@";
@@ -19,13 +19,13 @@
 "twenty past %@" 		= "zwanzg nach %@";
 "twenty past ref" 		= "current";
 
-"twentyfive past %@" 	= "fümf voa hoib %@";
+"twentyfive past %@" 	= "f√ºmf voa hoib %@";
 "twentyfive past ref" 	= "next";
 
 "half past %@" 			= "hoib %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "fümf nach hoib %@";
+"twentyfive to %@" 		= "f√ºmf nach hoib %@";
 "twentyfive to ref" 	= "next";
 
 "twenty to %@" 			= "zwanzg voa %@";
@@ -37,7 +37,7 @@
 "ten to %@" 			= "zehn voa %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "fümf voa %@";
+"five to %@" 			= "f√ºmf voa %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "kuaz voa %@";
@@ -46,18 +46,18 @@
 
 /* hour names */
 
-"twelve" = "zwöif";
+"twelve" = "zw√∂if";
 "one" = "oans";
 "two" = "zwoa";
 "three" = "drei";
 "four" = "via";
-"five" = "fümf";
+"five" = "f√ºmf";
 "six" = "sechs";
 "seven" = "siem";
 "eight" = "acht";
 "nine" = "neine";
 "ten" = "zehn";
-"eleven" = "äif";
+"eleven" = "√§if";
 
 
 /* special strings */
@@ -73,7 +73,7 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Über FuzzyClock...";
+"About FuzzyClock" = "√úber FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Hilfe";
 "Preferences ..." = "Einstellungen...";
 "Quit" = "Beenden";
@@ -82,7 +82,7 @@
 /* Others		*/
 
 "language" = "Sprache";
-"change only FuzzyTime" = "nur Fuzzy-Zeit ändern";
+"change only FuzzyTime" = "nur Fuzzy-Zeit √§ndern";
 
 "Save" = "Speichern";
 
@@ -93,7 +93,7 @@
 "draw font with shadow" = "Schrift mit Schatten zeichnen";
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 "chime on full hour" = "Ton zur vollen Stunde";
 
 /* Weekday abbreviations */

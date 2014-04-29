@@ -13,7 +13,7 @@
 "ten past %@" 			= "zee nooch %@";
 "ten past ref" 			= "current";
 
-"quarter past %@" 		= "vädl %@";
+"quarter past %@" 		= "v√§dl %@";
 "quarter past ref" 		= "next";
 
 "twenty past %@" 		= "zwonzich nooch %@";
@@ -31,7 +31,7 @@
 "twenty to %@" 			= "zwonzich vor %@";
 "twenty to ref" 		= "next";
 
-"quarter to %@" 		= "dreivädl %@";
+"quarter to %@" 		= "dreiv√§dl %@";
 "quarter to ref" 		= "next";
 
 "ten to %@" 			= "zee vor %@";
@@ -82,7 +82,7 @@
 /* Others		*/
 
 "language" = "Sprooch";
-"change only FuzzyTime" = "bloss Fuzzy-Zeit ännere";
+"change only FuzzyTime" = "bloss Fuzzy-Zeit √§nnere";
 
 "Save" = "Spaichere";
 
@@ -96,7 +96,7 @@
 "String" = "Text";
 "time format: hh:mm" = "Uhrzeitformat: hh:mm";
 "Remove" = "Entfernen";
-"Add" = "Hinzufügen";
+"Add" = "Hinzuf√ºgen";
 
 
 "Color & Font" = "Farbe & Schrift";
@@ -105,7 +105,7 @@
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
 
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 "chime on full hour" = "Ton zur vollen Stunde";
 
 /* Weekday abbreviations */

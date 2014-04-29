@@ -7,7 +7,7 @@
 "shortly after %@" 		= "korz nach %@";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "fümf nach %@";
+"five past %@" 			= "f√ºmf nach %@";
 "five past ref" 		= "current";
 
 "ten past %@" 			= "zee nach %@";
@@ -19,13 +19,13 @@
 "twenty past %@" 		= "zwansisch nach %@";
 "twenty past ref" 		= "current";
 
-"twentyfive past %@" 	= "fümfezwansisch nach %@";
+"twentyfive past %@" 	= "f√ºmfezwansisch nach %@";
 "twentyfive past ref" 	= "current";
 
 "half past %@" 			= "halber %@";
 "half past ref" 		= "current";
 
-"twentyfive to %@" 		= "fümfezwansisch vor %@";
+"twentyfive to %@" 		= "f√ºmfezwansisch vor %@";
 "twentyfive to ref" 	= "next";
 
 "twenty to %@" 			= "zwansisch vor %@";
@@ -37,7 +37,7 @@
 "ten to %@" 			= "zee vor %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "fümf vor %@";
+"five to %@" 			= "f√ºmf vor %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "korz vor %@";
@@ -46,18 +46,18 @@
 
 /* hour names */
 
-"twelve" = "zwölf";
+"twelve" = "zw√∂lf";
 "one" = "ahn";
 "two" = "zwo";
 "three" = "drei";
 "four" = "fier";
-"five" = "fümpf";
+"five" = "f√ºmpf";
 "six" = "sechs";
 "seven" = "sibbe";
 "eight" = "acht";
 "nine" = "neun";
 "ten" = "zee";
-"eleven" = "ölf";
+"eleven" = "√∂lf";
 
 /* special strings */
 
@@ -70,7 +70,7 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Übber FuzzyClock...";
+"About FuzzyClock" = "√úbber FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Helf";
 "Preferences ..." = "Einstellunge...";
 "Quit" = "Fertisch";
@@ -79,7 +79,7 @@
 /* Others		*/
 
 "language" = "Spraach";
-"change only FuzzyTime" = "nur FuzzyZeit änern";
+"change only FuzzyTime" = "nur FuzzyZeit √§nern";
 
 "Save" = "Speischern";
 
@@ -93,7 +93,7 @@
 "String" = "Text";
 "time format: hh:mm" = "Uhrzeitformat: hh:mm";
 "Remove" = "Entfernen";
-"Add" = "Hinzufügen";
+"Add" = "Hinzuf√ºgen";
 
 "Color & Font" = "Farbe & Schrift";
 "Text color" = "Textfarbe";
@@ -101,7 +101,7 @@
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
 
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 "chime on full hour" = "Ton zur vollen Stunde";
 
 /* Weekday abbreviations */

@@ -7,7 +7,7 @@
 "shortly after %@" 		= "kuaz na %@";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "fümf na %@";
+"five past %@" 			= "f√ºmf na %@";
 "five past ref" 		= "current";
 
 "ten past %@" 			= "zeah na %@";
@@ -19,16 +19,16 @@
 "twenty past %@" 		= "zeah voa halber %@";
 "twenty past ref" 		= "next";
 
-"twentyfive past %@" 	= "fümf voa halber %@";
+"twentyfive past %@" 	= "f√ºmf voa halber %@";
 "twentyfive past ref" 	= "next";
 
 "half past %@" 			= "halber %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "fümf nach halber %@";
+"twentyfive to %@" 		= "f√ºmf nach halber %@";
 "twentyfive to ref" 	= "next";
 
-"twenty to %@" 			= "fümf voa dreiviertl %@";
+"twenty to %@" 			= "f√ºmf voa dreiviertl %@";
 "twenty to ref" 		= "next";
 
 "quarter to %@" 		= "dreiviertl %@";
@@ -37,7 +37,7 @@
 "ten to %@" 			= "zeah voa %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "fümf voa %@";
+"five to %@" 			= "f√ºmf voa %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "glei %@";
@@ -46,18 +46,18 @@
 
 /* hour names */
 
-"twelve" = "zwölfe";
+"twelve" = "zw√∂lfe";
 "one" = "oins";
 "two" = "zwoa";
 "three" = "drei";
 "four" = "viere";
-"five" = "fümfe";
+"five" = "f√ºmfe";
 "six" = "sechse";
 "seven" = "sieme";
 "eight" = "achte";
 "nine" = "neine";
 "ten" = "zehne";
-"eleven" = "ölfe";
+"eleven" = "√∂lfe";
 
 
 /* special strings */
@@ -73,7 +73,7 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Über FuzzyClock...";
+"About FuzzyClock" = "√úber FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Hilfe";
 "Preferences ..." = "Einstellungen...";
 "Quit" = "Beenden";
@@ -82,7 +82,7 @@
 /* Others		*/
 
 "language" = "Sprache";
-"change only FuzzyTime" = "nur Fuzzy-Zeit ändern";
+"change only FuzzyTime" = "nur Fuzzy-Zeit √§ndern";
 
 "Save" = "Speichern";
 
@@ -96,7 +96,7 @@
 "String" = "Text";
 "time format: hh:mm" = "Uhrzeitformat: hh:mm";
 "Remove" = "Entfernen";
-"Add" = "Hinzufügen";
+"Add" = "Hinzuf√ºgen";
 
 "Color & Font" = "Farbe & Schrift";
 "Text color" = "Textfarbe";
@@ -104,7 +104,7 @@
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
 
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 "chime on full hour" = "Ton zur vollen Stunde";
 
 /* Weekday abbreviations */

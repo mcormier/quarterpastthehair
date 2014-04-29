@@ -45,7 +45,7 @@
 
 /* hour names */
 "twelve" = "twaalf";
-"one" = "ŽŽn";
+"one" = "Ã©Ã©n";
 "two" = "twee";
 "three" = "drie";
 "four" = "vier";
@@ -62,12 +62,12 @@
 "midnight" = "Middernacht";
 
 /* Workarounds */
-"one o'clock" = "ŽŽn uur";
+"one o'clock" = "Ã©Ã©n uur";
 
 /* Menu items */
-"About FuzzyClock" = "Over FuzzyClockÉ";
+"About FuzzyClock" = "Over FuzzyClockâ€¦";
 "FuzzyClock Help" = "FuzzyClock Help";
-"Preferences ..." = "VoorkeurenÉ";
+"Preferences ..." = "Voorkeurenâ€¦";
 "Quit" = "Stop";
 
 /* Others */

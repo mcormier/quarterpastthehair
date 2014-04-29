@@ -4,7 +4,7 @@
 /* After every string you have to set a reference whether the referenced hour is the current or the   */
 /* next.                                                                                              */
 
-"shortly after %@" 		= "vähän yli %@";
+"shortly after %@" 		= "v√§h√§n yli %@";
 "shortly after ref" 	= "current";
 
 "five past %@" 			= "viis yli %@";
@@ -34,10 +34,10 @@
 "quarter to %@" 		= "varttia vaille %@";
 "quarter to ref" 		= "next";
 
-"ten to %@" 			= "kymmentä vaille %@";
+"ten to %@" 			= "kymment√§ vaille %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "viittä vaille %@";
+"five to %@" 			= "viitt√§ vaille %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "kohta %@";
@@ -50,19 +50,19 @@
 "one" = "yks";
 "two" = "kaks";
 "three" = "kolme";
-"four" = "neljä";
+"four" = "nelj√§";
 "five" = "viis";
 "six" = "kuus";
-"seven" = "seittemän";
+"seven" = "seittem√§n";
 "eight" = "kaheksan";
-"nine" = "yheksän";
+"nine" = "yheks√§n";
 "ten" = "kymmenen";
 "eleven" = "ykstoista";
 
 /* special strings */
 
 "%@ o'clock" = "%@ tasan";
-"midnight" = "keskiyö";
+"midnight" = "keskiy√∂";
 
 /* Workarounds */
 
@@ -96,7 +96,7 @@
 "String" = "Polku";
 "time format: hh:mm" = "aikaformaatti: tt:mm";
 "Remove" = "Poista";
-"Add" = "Lisää";
+"Add" = "Lis√§√§";
 
 "Color & Font" = "Color & Font";
 "Text color" = "Text color";

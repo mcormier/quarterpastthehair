@@ -49,7 +49,7 @@
 "twelve" = "doze";
 "one" = "um";
 "two" = "dois";
-"three" = "três";
+"three" = "tr√™s";
 "four" = "quatro";
 "five" = "cinco";
 "six" = "seis";
@@ -78,12 +78,12 @@
 
 /* Others		*/
 
-"language" = "Língua";
+"language" = "L√≠ngua";
 "change only FuzzyTime" = "Mude apenas FuzzyTime";
 
 "Save" = "Salvar";
 
-"Fuzzy Preferences" = "Preferências do Fuzzy";
+"Fuzzy Preferences" = "Prefer√™ncias do Fuzzy";
 
 "Color & Font" = "Color & Font";
 "Text color" = "Text color";

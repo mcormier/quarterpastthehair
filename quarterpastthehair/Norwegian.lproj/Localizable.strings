@@ -16,10 +16,10 @@
 "quarter past %@" 		= "Kvart over %@";
 "quarter past ref" 		= "current";
 
-"twenty past %@" 		= "Ti på halv %@";
+"twenty past %@" 		= "Ti p√• halv %@";
 "twenty past ref" 		= "next";
 
-"twentyfive past %@" 	= "Fem på halv %@";
+"twentyfive past %@" 	= "Fem p√• halv %@";
 "twentyfive past ref" 	= "next";
 
 "half past %@" 			= "Halv %@";
@@ -31,13 +31,13 @@
 "twenty to %@" 			= "Ti over halv %@";
 "twenty to ref" 		= "next";
 
-"quarter to %@" 		= "Kvart på %@";
+"quarter to %@" 		= "Kvart p√• %@";
 "quarter to ref" 		= "next";
 
-"ten to %@" 			= "Ti på %@";
+"ten to %@" 			= "Ti p√• %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "Fem på %@";
+"five to %@" 			= "Fem p√• %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "Nesten %@";
@@ -54,7 +54,7 @@
 "five" = "fem";
 "six" = "seks";
 "seven" = "sju";
-"eight" = "åtte";
+"eight" = "√•tte";
 "nine" = "ni";
 "ten" = "ti";
 "eleven" = "elleve";
@@ -78,14 +78,14 @@
 
 /* Others		*/
 
-"language" = "Språk";
+"language" = "Spr√•k";
 "change only FuzzyTime" = "Berre endre FuzzyTime";
 
 "Save" = "Lagre";
 
 "Fuzzy Preferences" = "Fuzzy val";
 
-"Language Settings" = "Språkval";
+"Language Settings" = "Spr√•kval";
 "Specials" = "Eigne meldingar";
 "Special time settings" = "Eiga innstilling";
 "Starttime" = "Starttid";

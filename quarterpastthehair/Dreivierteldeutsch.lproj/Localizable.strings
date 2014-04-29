@@ -7,7 +7,7 @@
 "shortly after %@" 		= "kurz nach %@";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "fünf nach %@";
+"five past %@" 			= "f√ºnf nach %@";
 "five past ref" 		= "current";
 
 "ten past %@" 			= "zehn nach %@";
@@ -19,16 +19,16 @@
 "twenty past %@" 		= "zehn vor halb %@";
 "twenty past ref" 		= "next";
 
-"twentyfive past %@" 	= "fünf vor halb %@";
+"twentyfive past %@" 	= "f√ºnf vor halb %@";
 "twentyfive past ref" 	= "next";
 
 "half past %@" 			= "halb %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "fünf nach halb %@";
+"twentyfive to %@" 		= "f√ºnf nach halb %@";
 "twentyfive to ref" 	= "next";
 
-"twenty to %@" 			= "fünf vor dreiviertel %@";
+"twenty to %@" 			= "f√ºnf vor dreiviertel %@";
 "twenty to ref" 		= "next";
 
 "quarter to %@" 		= "dreiviertel %@";
@@ -37,7 +37,7 @@
 "ten to %@" 			= "zehn vor %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "fünf vor %@";
+"five to %@" 			= "f√ºnf vor %@";
 "five to ref" 			= "next";
 
 "nearly %@" 			= "gleich %@";
@@ -46,12 +46,12 @@
 
 /* hour names */
 
-"twelve" = "zwölf";
+"twelve" = "zw√∂lf";
 "one" = "eins";
 "two" = "zwei";
 "three" = "drei";
 "four" = "vier";
-"five" = "fünf";
+"five" = "f√ºnf";
 "six" = "sechs";
 "seven" = "sieben";
 "eight" = "acht";
@@ -73,7 +73,7 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Über FuzzyClock...";
+"About FuzzyClock" = "√úber FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Hilfe";
 "Preferences ..." = "Einstellungen...";
 "Quit" = "Beenden";
@@ -82,7 +82,7 @@
 /* Others		*/
 
 "language" = "Sprache";
-"change only FuzzyTime" = "nur Fuzzy-Zeit ändern";
+"change only FuzzyTime" = "nur Fuzzy-Zeit √§ndern";
 
 "Save" = "Speichern";
 
@@ -96,7 +96,7 @@
 "String" = "Text";
 "time format: hh:mm" = "Uhrzeitformat: hh:mm";
 "Remove" = "Entfernen";
-"Add" = "Hinzufügen";
+"Add" = "Hinzuf√ºgen";
 
 
 "Color & Font" = "Farbe & Schrift";
@@ -105,7 +105,7 @@
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
 
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 "chime on full hour" = "Ton zur vollen Stunde";
 
 /* Weekday abbreviations */

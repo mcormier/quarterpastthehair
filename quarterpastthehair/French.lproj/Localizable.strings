@@ -1,13 +1,13 @@
-/* Les chaînes de caractères suivantes ont pour but de montrer l'heure */
-/* d'une façon "floue". */
-/* Si vous voulez créer d'autres chaînes de caractères, changez la */
-/* deuxième inscription de chaque ligne. Ne changez pas la première! */
-/* L'inscription %@ représente la position où l'on place l'heure. */
-/* Après chaque chaîne de caractères il faut mettre une référence */
-/* afin de clarifier si elle a rapport à l'heure courante ou à */
+/* Les cha√Ænes de caract√®res suivantes ont pour but de montrer l'heure */
+/* d'une fa√ßon "floue". */
+/* Si vous voulez cr√©er d'autres cha√Ænes de caract√®res, changez la */
+/* deuxi√®me inscription de chaque ligne. Ne changez pas la premi√®re! */
+/* L'inscription %@ repr√©sente la position o√π l'on place l'heure. */
+/* Apr√®s chaque cha√Æne de caract√®res il faut mettre une r√©f√©rence */
+/* afin de clarifier si elle a rapport √† l'heure courante ou √† */
 /* celle qui suit. */
 
-"shortly after %@" 		= "%@ passé";
+"shortly after %@" 		= "%@ pass√©";
 "shortly after ref" 		= "current";
 
 "five past %@" 			= "%@ cinq";
@@ -62,7 +62,7 @@
 "ten" = "dix heures";
 "eleven" = "onze heures";
 
-/* chaînes particulières */
+/* cha√Ænes particuli√®res */
 
 "%@ o'clock" = "%@ pile";
 "midnight" = "minuit";
@@ -72,11 +72,11 @@
 "one o'clock" = "une heure";
 
 
-/* Éléments du menu */
+/* √âl√©ments du menu */
 
 "About FuzzyClock" = "A propos de FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Aide";
-"Preferences ..." = "Préférences...";
+"Preferences ..." = "Pr√©f√©rences...";
 "Quit" = "Quitter";
 
 
@@ -87,7 +87,7 @@
 
 "Save" = "Sauver";
 
-"Fuzzy Preferences" = "Fuzzy Préférences";
+"Fuzzy Preferences" = "Fuzzy Pr√©f√©rences";
 
 "Color & Font" = "Color & Font";
 "Text color" = "Text color";

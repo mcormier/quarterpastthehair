@@ -7,54 +7,54 @@
 "shortly after %@" 		= "%@ gsi";
 "shortly after ref" 	= "current";
 
-"five past %@" 			= "füf ab %@";
+"five past %@" 			= "f√ºf ab %@";
 "five past ref" 		= "current";
 
-"ten past %@" 			= "zä ab %@";
+"ten past %@" 			= "z√§ ab %@";
 "ten past ref" 			= "current";
 
 "quarter past %@" 		= "viertel ab %@";
 "quarter past ref" 		= "current";
 
-"twenty past %@" 		= "zwänzg ab %@";
+"twenty past %@" 		= "zw√§nzg ab %@";
 "twenty past ref" 		= "current";
 
-"twentyfive past %@" 	= "für vor halbi %@";
+"twentyfive past %@" 	= "f√ºr vor halbi %@";
 "twentyfive past ref" 	= "next";
 
 "half past %@" 			= "halbi %@";
 "half past ref" 		= "next";
 
-"twentyfive to %@" 		= "füf ab halbi %@";
+"twentyfive to %@" 		= "f√ºf ab halbi %@";
 "twentyfive to ref" 	= "next";
 
-"twenty to %@" 			= "zwänzg vor %@";
+"twenty to %@" 			= "zw√§nzg vor %@";
 "twenty to ref" 		= "next";
 
 "quarter to %@" 		= "viertel vor %@";
 "quarter to ref" 		= "next";
 
-"ten to %@" 			= "zä vor %@";
+"ten to %@" 			= "z√§ vor %@";
 "ten to ref" 			= "next";
 
-"five to %@" 			= "füf vor %@";
+"five to %@" 			= "f√ºf vor %@";
 "five to ref" 			= "next";
 "nearly %@" 			= "knapp %@";
 
 "nearly ref" 			= "next";
 
 /* hour names */
-"twelve" = "Zwölfi";
+"twelve" = "Zw√∂lfi";
 "one" = "Eis";
 "two" = "Zwoi";
-"three" = "Drü";
+"three" = "Dr√º";
 "four" = "Vieri";
 "five" = "Foifi";
-"six" = "Sächsi";
+"six" = "S√§chsi";
 "seven" = "Sibni";
 "eight" = "Achti";
-"nine" = "Nüni";
-"ten" = "Zäni";
+"nine" = "N√ºni";
+"ten" = "Z√§ni";
 "eleven" = "Elfi";
 
 /* special strings */
@@ -69,11 +69,11 @@
 "About FuzzyClock" = "Ueber FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Hilf";
 "Preferences ..." = "Iischtellige...";
-"Quit" = "und Tschüss";
+"Quit" = "und Tsch√ºss";
 
 /* Others		*/
 "language" = "Schprach";
-"change only FuzzyTime" = "nume FuzzyZit-Schprach ändere";
+"change only FuzzyTime" = "nume FuzzyZit-Schprach √§ndere";
 "Save" = "Schpeichere";
 "Fuzzy Preferences" = "Fuzzy Iischtellige";
 

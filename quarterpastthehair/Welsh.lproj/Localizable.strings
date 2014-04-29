@@ -4,7 +4,7 @@
 /* After every string you have to set a reference whether the referenced hour is the current or the   */
 /* next.                                                                                              */
 
-"shortly after %@" 		= "bach ar ôl %@";
+"shortly after %@" 		= "bach ar √¥l %@";
 "shortly after ref" 	= "current";
 
 "five past %@" 			= "pum muned wedi %@";
@@ -62,7 +62,7 @@
 /* special strings */
 
 "%@ o'clock" = "%@ o'r gloch";
-"midnight" = "hanner nôs";
+"midnight" = "hanner n√¥s";
 
 /* Workarounds */
 
