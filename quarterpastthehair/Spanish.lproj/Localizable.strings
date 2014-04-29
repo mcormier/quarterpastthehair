@@ -4,7 +4,7 @@
 /* After every string you have to set a reference whether the referenced hour is the current or the   */
 /* next.                                                                                              */
 
-"shortly after %@" 		= "un poco despus de %@";
+"shortly after %@" 		= "un poco despuÃ©s de %@";
 "shortly after ref" 	= "current";
 
 "five past %@" 			= "%@ y cinco";

@@ -71,7 +71,7 @@
 /* Menu items		*/
 
 "About FuzzyClock" = "Om FuzzyClock...";
-"FuzzyClock Help" = "FuzzyClock Hjælp";
+"FuzzyClock Help" = "FuzzyClock Hj√¶lp";
 "Preferences ..." = "Preferencer...";
 "Quit" = "Quit";
 
@@ -79,7 +79,7 @@
 /* Others		*/
 
 "language" = "Sprog";
-"change only FuzzyTime" = "Lav kun ændringer i FuzzyTime";
+"change only FuzzyTime" = "Lav kun √¶ndringer i FuzzyTime";
 
 "Save" = "Save";
 

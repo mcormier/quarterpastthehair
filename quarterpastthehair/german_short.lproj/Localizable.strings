@@ -73,7 +73,7 @@
 
 /* Menu items		*/
 
-"About FuzzyClock" = "Über FuzzyClock...";
+"About FuzzyClock" = "√úber FuzzyClock...";
 "FuzzyClock Help" = "FuzzyClock Hilfe";
 "Preferences ..." = "Einstellungen...";
 "Quit" = "Beenden";
@@ -82,7 +82,7 @@
 /* Others		*/
 
 "language" = "Sprache";
-"change only FuzzyTime" = "nur Fuzzy-Zeit ändern";
+"change only FuzzyTime" = "nur Fuzzy-Zeit √§ndern";
 
 "Save" = "Speichern";
 
@@ -96,7 +96,7 @@
 "String" = "Text";
 "time format: hh:mm" = "Uhrzeitformat: hh:mm";
 "Remove" = "Entfernen";
-"Add" = "Hinzufügen";
+"Add" = "Hinzuf√ºgen";
 
 
 "Color & Font" = "Farbe & Schrift";
@@ -104,7 +104,7 @@
 "draw font with shadow" = "Schrift mit Schatten zeichnen";
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 "chime on full hour" = "Ton zur vollen Stunde";
 
 /* Weekday abbreviations */

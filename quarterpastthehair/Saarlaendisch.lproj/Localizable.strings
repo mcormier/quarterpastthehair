@@ -5,7 +5,7 @@
 /* next.                                                                                              */
 "shortly after %@" 		= "korz noh %@";
 "shortly after ref" 	= "current";
-"five past %@" 			= "fönf noh %@";
+"five past %@" 			= "f√∂nf noh %@";
 "five past ref" 		= "current";
 "ten past %@" 			= "zehn noh %@";
 "ten past ref" 			= "current";
@@ -13,11 +13,11 @@
 "quarter past ref" 		= "current";
 "twenty past %@" 		= "zwanzisch noh %@";
 "twenty past ref" 		= "current";
-"twentyfive past %@" 	= "fönf fohr halb %@";
+"twentyfive past %@" 	= "f√∂nf fohr halb %@";
 "twentyfive past ref" 	= "next";
 "half past %@" 			= "halb %@";
 "half past ref" 		= "next";
-"twentyfive to %@" 		= "fönf noh halb %@";
+"twentyfive to %@" 		= "f√∂nf noh halb %@";
 "twentyfive to ref" 	= "next";
 "twenty to %@" 			= "zwanzisch fohr %@";
 "twenty to ref" 		= "next";
@@ -25,18 +25,18 @@
 "quarter to ref" 		= "next";
 "ten to %@" 			= "zehn fohr %@";
 "ten to ref" 			= "next";
-"five to %@" 			= "fönf fohr %@";
+"five to %@" 			= "f√∂nf fohr %@";
 "five to ref" 			= "next";
 "nearly %@" 			= "korz fohr %@";
 "nearly ref" 			= "next";
 
 /* hour names */
-"twelve" = "zwölf";
-"one" = "äns";
-"two" = "zwä";
+"twelve" = "zw√∂lf";
+"one" = "√§ns";
+"two" = "zw√§";
 "three" = "drei";
 "four" = "vier";
-"five" = "fönf";
+"five" = "f√∂nf";
 "six" = "sechs";
 "seven" = "siwwe";
 "eight" = "acht";
@@ -49,7 +49,7 @@
 "midnight" = "Middernaacht";
 
 /* Workarounds */
-"one o'clock" = "Äns";
+"one o'clock" = "√Ñns";
 
 /* Menu items		*/
 "About FuzzyClock" = "Iwwer FuzzyClock...";
@@ -59,7 +59,7 @@
 
 /* Others		*/
 "language" = "Sprohch";
-"change only FuzzyTime" = "nohr Fuzzy-Zeit ännere";
+"change only FuzzyTime" = "nohr Fuzzy-Zeit √§nnere";
 "Save" = "Speichere";
 "Fuzzy Preferences" = "Fuzzy Enstellunge";
 
@@ -68,7 +68,7 @@
 "draw font with shadow" = "Schrift mit Schatten zeichnen";
 "(takes effect when you restart FuzzyClock)" = "(erst nach erneutem Start von FuzzyClock sichtbar)";
 "font name" = "Schriftname";
-"show day in menu bar" = "Tag im Menü zeigen";
+"show day in menu bar" = "Tag im Men√º zeigen";
 
 "chime on full hour" = "Ton zur vollen Stunde";
 
