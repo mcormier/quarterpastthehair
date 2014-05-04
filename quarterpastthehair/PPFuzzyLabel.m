@@ -108,7 +108,6 @@
   NSInteger hour = [components hour];
   NSInteger minutes = [components minute];
   
-  // TODO auto-release.
   return [[PPFuzzyLabel alloc] initWith:hour and:minutes];
 }
 
