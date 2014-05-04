@@ -15,9 +15,20 @@
 @implementation PPAppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
-   [self addToMenuBar];
+  
+  [self addToMenuBar];
+  
+  // TODO -- read up on Grand Central dispatch.
+  // Any issue with using a timer as opposed to an NSOperation?
+  [NSTimer scheduledTimerWithTimeInterval:60
+                                   target:self
+                                 selector:@selector(updateDisplay:) userInfo:nil repeats:YES];
+
 }
 
+- (void)updateDisplay:(NSTimer*)timer {
+  [statusItem setTitle:[PPFuzzyTimeGenerator descriptionForNow]];
+}
 
 - (void)addToMenuBar {
   // TODO
