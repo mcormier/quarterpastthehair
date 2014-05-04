@@ -25,20 +25,34 @@
   //[statusItem release];
   statusItem = [[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength];
   
-  //  NSDate *now = [NSDate date];
-  
-  
-  //  [statusItem setTitle:
-  //       [now descriptionWithCalendarFormat:@"%H:%M:%S %Z"
-  //                                 timeZone:nil
-  //                                   locale:[[NSUserDefaults standardUserDefaults] dictionaryRepresentation] ]];
+
   
   [statusItem setTitle:[PPFuzzyTimeGenerator descriptionForNow]];
-  
-  
   [statusItem setMenu:statusMenu];
   
+  // So we can modify the date and time place holder
+  // menu items right before the menu item is displayed.
+  [statusMenu setDelegate:(id)self];
+  
 }
+
+// NSMenuDelegate Protocol
+- (void)menuWillOpen:(NSMenu *)menu {
+  
+  NSDate *currDate = [NSDate date];
+  
+  NSDateFormatter *dateFormatter = [[NSDateFormatter alloc]init];
+  [dateFormatter setDateFormat:@"dd MMMM YYYY"];
+  NSString *dateString = [dateFormatter stringFromDate:currDate];
+
+  [currentDateMenuItem setTitle:dateString];
+  
+  [dateFormatter setDateFormat:@"HH:mm"];
+  [currentTimeMenuItem setTitle: [dateFormatter stringFromDate:currDate] ];
+
+}
+
+
 
 
 @end

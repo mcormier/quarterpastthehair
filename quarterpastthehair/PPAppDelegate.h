@@ -13,6 +13,10 @@
 @interface PPAppDelegate : NSObject <NSApplicationDelegate> {
   
   IBOutlet NSMenu *statusMenu;
+
+  IBOutlet NSMenuItem* currentDateMenuItem;
+  IBOutlet NSMenuItem* currentTimeMenuItem;
+
   
   // TODO -- private variable declared in public .h file.\?
 @private

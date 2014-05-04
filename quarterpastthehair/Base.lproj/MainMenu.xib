@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="5056" systemVersion="13C64" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="5056" systemVersion="13C1021" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="5056"/>
     </dependencies>
@@ -13,6 +13,8 @@
         <customObject id="-3" userLabel="Application"/>
         <customObject id="Voe-Tx-rLC" customClass="PPAppDelegate">
             <connections>
+                <outlet property="currentDateMenuItem" destination="Q5d-Y5-rga" id="eRl-W1-c1l"/>
+                <outlet property="currentTimeMenuItem" destination="Dfs-nC-s17" id="Wfe-BR-UNh"/>
                 <outlet property="statusMenu" destination="FOv-rm-GVj" id="COd-CO-HwA"/>
             </connections>
         </customObject>
@@ -668,8 +670,10 @@
         </menu>
         <menu title="Menu" id="FOv-rm-GVj" userLabel="MenuExtra">
             <items>
-                <menuItem title="Placeholder 1" id="Q5d-Y5-rga"/>
-                <menuItem title="Placeholder 2" id="Dfs-nC-s17">
+                <menuItem title="Date placeholder" id="Q5d-Y5-rga">
+                    <modifierMask key="keyEquivalentModifierMask"/>
+                </menuItem>
+                <menuItem title="Time placeholder " id="Dfs-nC-s17">
                     <modifierMask key="keyEquivalentModifierMask"/>
                 </menuItem>
                 <menuItem isSeparatorItem="YES" id="Mke-ci-a6q">
