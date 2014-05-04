@@ -18,8 +18,6 @@
   
   [self addToMenuBar];
   
-  // TODO -- read up on Grand Central dispatch.
-  // Any issue with using a timer as opposed to an NSOperation?
   [NSTimer scheduledTimerWithTimeInterval:60
                                    target:self
                                  selector:@selector(updateDisplay:) userInfo:nil repeats:YES];
