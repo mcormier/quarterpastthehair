@@ -18,7 +18,6 @@
   IBOutlet NSMenuItem* currentTimeMenuItem;
 
   
-  // TODO -- private variable declared in public .h file.\?
 @private
   NSStatusItem* statusItem;
   
