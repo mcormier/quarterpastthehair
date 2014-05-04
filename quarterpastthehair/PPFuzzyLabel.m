@@ -63,6 +63,7 @@
   NSInteger valMod = value % 12;
   
   switch( valMod) {
+    case 0: return @"twelve";
     case 1: return @"one";
     case 2: return @"two";
     case 3: return @"three";
@@ -74,9 +75,8 @@
     case 9: return @"nine";
     case 10: return @"ten";
     case 11: return @"eleven";
-    case 12: return @"twelve";
   }
-  
+    
   // We shouldn't get here.
   return @"blah";
 }
