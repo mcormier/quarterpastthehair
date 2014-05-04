@@ -29,12 +29,7 @@
 }
 
 - (void)addToMenuBar {
-  // TODO
-  // 'release' is unavailable: not available in automatic reference counting mode
-  //[statusItem release];
   statusItem = [[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength];
-  
-
   
   [statusItem setTitle:[PPFuzzyTimeGenerator descriptionForNow]];
   [statusItem setMenu:statusMenu];
