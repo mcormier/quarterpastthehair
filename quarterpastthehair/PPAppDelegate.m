@@ -22,6 +22,18 @@
                                    target:self
                                  selector:@selector(updateDisplay:) userInfo:nil repeats:YES];
 
+  [self setupAboutBox];
+
+}
+
+- (void)setupAboutBox {
+  NSString* creditsPath = [[NSBundle mainBundle] pathForResource:@"Credits" ofType:@"rtf"];
+  NSAttributedString* creditsString = [[NSAttributedString alloc] initWithPath:creditsPath documentAttributes:nil];
+  
+  [aboutCreditsView replaceCharactersInRange:NSMakeRange( 0, 0 )
+                                 withRTF:[creditsString RTFFromRange:
+                                          NSMakeRange( 0, [creditsString length] )
+                                                  documentAttributes:nil]];
 }
 
 - (void)updateDisplay:(NSTimer*)timer {

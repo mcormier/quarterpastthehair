@@ -17,6 +17,7 @@
   IBOutlet NSMenuItem* currentDateMenuItem;
   IBOutlet NSMenuItem* currentTimeMenuItem;
 
+  IBOutlet NSTextView* aboutCreditsView;
   
 @private
   NSStatusItem* statusItem;
