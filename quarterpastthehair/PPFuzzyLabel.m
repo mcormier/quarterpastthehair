@@ -39,10 +39,11 @@
 
 }
 
+
 - (NSString*)hourRefForMinute {
   if ( minute == 0) { return @"current"; }
   
-  if ( minute >= 58 ) { return NSLocalizedString(@"nearly %@", nil);}
+  if ( minute >= 58 ) { return NSLocalizedString(@"nearly ref", nil);}
   if ( minute >= 55 ) { return NSLocalizedString(@"five to ref", nil);}
   if (minute >= 48) { return NSLocalizedString(@"ten to ref", nil); }
   if (minute >= 43) { return NSLocalizedString(@"quarter to ref", nil); }
