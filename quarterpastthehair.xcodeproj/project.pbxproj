@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A58DDB611989B3700088FAB2 /* qpth.icns in Resources */ = {isa = PBXBuildFile; fileRef = A58DDB601989B3700088FAB2 /* qpth.icns */; };
 		A5C5C78C18FB3649007BF8DD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5C5C78B18FB3649007BF8DD /* Cocoa.framework */; };
 		A5C5C79618FB3649007BF8DD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5C5C79418FB3649007BF8DD /* InfoPlist.strings */; };
 		A5C5C79818FB3649007BF8DD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C5C79718FB3649007BF8DD /* main.m */; };
@@ -129,6 +130,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A58DDB601989B3700088FAB2 /* qpth.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = qpth.icns; path = quarterpastthehair/qpth.icns; sourceTree = SOURCE_ROOT; };
 		A5C5C78818FB3649007BF8DD /* quarterpastthehair.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = quarterpastthehair.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C5C78B18FB3649007BF8DD /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		A5C5C78E18FB3649007BF8DD /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -352,6 +354,7 @@
 		A5C5C7B018FB3649007BF8DD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A58DDB601989B3700088FAB2 /* qpth.icns */,
 				A5C5C7B118FB3649007BF8DD /* quarterpastthehairTests-Info.plist */,
 				A5C5C7B218FB3649007BF8DD /* InfoPlist.strings */,
 			);
@@ -1175,6 +1178,7 @@
 				A5C5C90B18FB69F7007BF8DD /* help.html in Resources */,
 				A5C5C8A718FB69E5007BF8DD /* Localizable.strings in Resources */,
 				A5C5C87318FB69D4007BF8DD /* Localizable.strings in Resources */,
+				A58DDB611989B3700088FAB2 /* qpth.icns in Resources */,
 				A5C5C7FD18FB69C0007BF8DD /* Localizable.strings in Resources */,
 				A5C5C8A518FB69E5007BF8DD /* Localizable.strings in Resources */,
 				A5C5C86218FB69D4007BF8DD /* help.html in Resources */,
