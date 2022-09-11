@@ -30,10 +30,11 @@
   NSString* creditsPath = [[NSBundle mainBundle] pathForResource:@"Credits" ofType:@"rtf"];
   NSAttributedString* creditsString = [[NSAttributedString alloc] initWithPath:creditsPath documentAttributes:nil];
   
-  [aboutCreditsView replaceCharactersInRange:NSMakeRange( 0, 0 )
-                                 withRTF:[creditsString RTFFromRange:
-                                          NSMakeRange( 0, [creditsString length] )
-                                                  documentAttributes:nil]];
+  NSData* rtfFromString = [creditsString RTFFromRange:
+                  NSMakeRange( 0, [creditsString length] )
+                          documentAttributes:nil];
+    
+  [aboutCreditsView replaceCharactersInRange:NSMakeRange( 0, 0 ) withRTF:rtfFromString];
 }
 
 - (void)updateDisplay:(NSTimer*)timer {
